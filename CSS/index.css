@@ -1,0 +1,59 @@
+  header{
+    max-width: 800px;
+    margin:  auto;
+    margin-top: 10%;
+    text-align:center;
+   border-radius: 5px;
+  }
+
+  body{
+    background-attachment: fixed;
+    background-color:#f5e55b; 
+    background-image: url("../img/Mexican_Background.png");  
+  }
+
+  .form {  
+    max-width: 800px;
+    margin:  auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 28%;  
+  }
+  
+  .form input {
+    margin: 1%;
+    width: 87%;
+    height: auto;
+  }
+  .form select{
+    margin: 1%;
+    width: 87%;
+    
+  }
+  .form p{
+    margin: 1%;
+    width: auto;
+    height: auto;
+    margin-left: 11px;
+  }
+  
+  #fecha{
+    margin-right: 3%;
+  }
+  #selector{
+    margin-right: 3%;
+  }
+
+  .card{
+    margin-right: 12%;
+    margin-top: 1%;
+  }
+
+  .form button{
+  margin-left: 1%;
+  margin-top: 2%;
+  margin-bottom: 1%;
+  }
+
+
+  
